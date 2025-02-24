@@ -5,3 +5,4 @@ VR 裝置的市場份額分析
 在談數據分析前，先來大致理解現今 VR 遊戲的現狀，根據去年 12 月 Steam 提供的VR設備數據報告中得知，HTC Vive 的市場份額為40.82%，其中，Vive Pro 的佔比 2.81%，HTC Vive 佔 43.6%，HTC  總佔比較去年同期下滑 8.68%；Oculus 的市場佔比為 47.47%，總佔比較去年同期下滑 1.07%；Windows MR 在 2018 年 5 月初與 Steam 正式兼容，市場佔比為 8.89%。
 
 按照 NVIDIA CEO 黃仁勳透露，PC 的 VR 頭戴裝置出售總量約 400 萬台，以 Steam 市場份額佔比來估算，HTC Vive 和 Vive Pro 的設備銷量約為 174 萬台；Oculus Rift CV1 和 Oculus Rift DK2 的設備銷量約為 189.8 萬台；而 Windows MR 的設備銷量約為 35.56 萬台。 
+599美元
